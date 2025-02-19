@@ -174,3 +174,4 @@ browser_data/
 
 # PyPI configuration file
 .pypirc
+.env
