@@ -1,0 +1,9 @@
+pyautogen~=0.7.4
+azure-core~=1.32.0
+protobuf~=5.29.3
+pillow~=11.1.0
+playwright~=1.49.1
+matplotlib~=3.10.0
+numpy~=1.26.4
+python-dotenv~=1.0.1
+requests~=2.32.3
